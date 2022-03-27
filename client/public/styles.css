@@ -1,0 +1,211 @@
+/* -----------------------NAVBAR----------------------- */
+
+.logo{
+  font-family: 'Montserrat';
+}
+
+/* ----------------landingScreen---------------------- */
+
+
+.tagline{
+  font-weight: 500;
+  padding: 5% 5% 5% 10%;
+  font-family: 'Montserrat';
+  background-color: #f5e6ff;
+  text-align: left;
+}
+
+.tline{
+  font-size: 4rem;
+  /* color:#654f6e; */
+  color:#692fa2;
+}
+
+.right{
+  background-color:#f5e6ff;
+}
+.bn{
+  padding: 1% 5% 1% 5%;
+  margin-top: 10%;
+  margin-right: 5%;
+  font-size: 2rem;
+}
+
+.button-colour{
+  color: #692fa2;
+}
+
+.btn-color{
+  background-color: #692fa2;
+}
+
+.title-image{
+  width:100%;
+  position: relative;
+  top: 25%;
+  padding-right: 30%;
+}
+
+.carousel-item{
+  padding-top: 10%;
+  padding-bottom: 10%;
+  text-align: center;
+  background-color: #fff;
+}
+
+#features {
+  position: relative;
+  text-align: center;
+  padding: 5%;
+}
+
+.feature-title {
+  font-size: 1.5rem;
+  padding: 5% 0 5%;
+}
+
+.feature-box {
+  padding: 4.5%;
+}
+
+
+
+.goals{
+  background-color:#f5e6ff;
+  padding: 5% 5% 5% 10%;
+}
+
+.goals-heading{
+  padding:0 0 0 3%;
+  font-size: 3rem;
+  color: black;
+  font-family: 'Roboto', sans-serif;
+  /* text-align: right; */
+}
+
+.team-goals{
+  width: 100%;
+}
+
+.mini-goals{
+  color: #692fa2;
+  /* font-weight: bold; */
+}
+
+.goal-content{
+  color:#c685ff;
+  /* font-weight: bold; */
+}
+
+
+/* ---------------------- Contact us ----------------- */
+
+
+.entire{
+  background-color: #f5e6ff;
+}
+
+.heading-section {
+  padding-top: 10%;
+  font-size: 38px;
+  color: #fff;
+}
+
+.text-try p {
+  /* display: flex;
+  flex-direction: column; */
+    margin-bottom: 0rem;
+    color: black;
+    text-decoration:none;
+    /* font-weight: bold; */
+}
+
+.text-try a {
+  /* display: flex;
+  flex-direction: column; */
+    margin-bottom: 0rem;
+    color: #692fa2;
+    text-decoration:none;
+}
+
+.address{
+  color: #692fa2;
+}
+
+.dbox{
+  padding-top: 5rem;
+}
+
+.icon {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background: #fff;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    /* padding-top: 2rem; */
+  }
+
+  .form-group {
+    margin-bottom: 1rem;
+   }
+
+.btn-submit{
+  color: #fff;
+  background-color: #000;
+  /* padding-bottom: 5rem; */
+}
+
+.form-control{
+  margin-bottom: 1rem;
+}
+
+.submitting{
+  padding-bottom: 5rem;
+}
+
+
+
+/* ---------------------- footer ---------------- */
+
+.footer{
+  background-color:#f5e6ff;
+  /* background-color:white; */
+  text-align: center;
+  padding: 5% 5% 5% 10%;
+
+}
+
+.footer-alt{
+  /* background-color:#f5e6ff; */
+  background-color:white;
+  text-align: center;
+  padding: 5% 5% 5% 10%;
+}
+
+.footer-logo{
+  font-size: 3.5rem;
+  position: relative;
+  top: 40%;
+  right: 40%;
+
+}
+
+
+.footer-heading{
+  color: #692fa2;
+}
+
+.footer-list{
+  color: #c685ff;
+}
+
+.social-icon {
+  margin: 20px 5px;
+  width: 50%;
+  color: #c685ff;
+}
+
+.copyright{
+  padding-top: 10%;
+}
